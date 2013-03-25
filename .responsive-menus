@@ -1,0 +1,65 @@
+#header .menu {
+  	float: none;
+		width: auto;
+	}
+	
+	#header .widget-area {
+		height: auto;
+	}
+	
+	#header .widget-area .widget-wrap {
+		text-align: center;
+	}
+	
+	#header .widget-area ul {
+		float: none !important;
+		text-align: center;
+	}
+	
+	#header .widget-area ul li {
+		float: none;
+		display: inline-block;
+	}
+	
+	#header .widget-area .menu li {
+		float: none;
+		display: inline-block;
+	}
+	
+	#nav {
+		float: none;
+		height: auto;
+	}
+	
+	#nav .wrap {
+		text-align: center;
+	}
+	
+	#nav ul {
+		float: none;
+		text-align: center;
+	}
+	
+	#nav ul li {
+		float: none;
+		display: inline-block;
+	}
+	
+	#subnav {
+		float: none;
+		height: auto;
+	}
+	
+	#subnav .wrap {
+		text-align: center;
+	}
+	
+	#subnav ul {
+		float: none;
+		display: block;
+	}
+	
+	#subnav ul li {
+		float: none;
+		display: inline-block;
+	}
